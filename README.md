@@ -3,7 +3,7 @@
 <h3 align="center">Tech Enthusiast | BTech CSE Student | Aspiring Software Engineer</h3> <br><br> 
 
 
-• I'm currently working on: Building Python projects, practicing DSA in C++, and developing my personal portfolio website.<br> • I'm looking to collaborate on: Open-source Python projects, beginner-friendly web apps, and automation tools.<br> • I'm looking for help with: Backend development (FastAPI), system design basics, and real-world project ideas.<br> • I'm currently learning: Python for data analysis, DSA in C++, SQL, and backend web development.<br> • Ask me about: Python, NumPy, Pandas, C++ basics, DSA, Git/GitHub, and Arduino projects.<br> • Know about my experiences <a href="https://linkedin.com/in/gurnoor-singh-2984a2252">LinkedIn</a> <br> • Fun fact: I love turning ideas into projects — from vending machines with Arduino to planning my own clothing brand!
+• I'm currently working on: Building Python projects, practicing DSA in C++, and developing my personal portfolio website.<br> • I'm looking to collaborate on: Open-source Python projects, beginner-friendly web apps, and automation tools.<br> • I'm looking for help with: Backend development (FastAPI), system design basics, and real-world project ideas.<br> • I'm currently learning: Python for data analysis, DSA in C++, SQL, and backend web development.<br> • Ask me about: Python, NumPy, Pandas, C++ basics, DSA, Git/GitHub, and Arduino projects.<br> • Know about my experiences <a href="https://linkedin.com/in/sahibsasan">LinkedIn</a> <br> • Fun fact: I love turning ideas into projects — from vending machines with Arduino to planning my own clothing brand!
 
 
 
