@@ -3,7 +3,7 @@
 <h3 align="center">Tech Enthusiast | BTech CSE Student | Aspiring Software Engineer</h3> <br><br> 
 
 
-• I'm currently working on: Building Python projects, practicing DSA in C++, and developing my personal portfolio website.<br> • I'm looking to collaborate on: Open-source Python projects, beginner-friendly web apps, and automation tools.<br> • I'm looking for help with: Backend development (FastAPI), system design basics, and real-world project ideas.<br> • I'm currently learning: Python for data analysis, DSA in C++, SQL, and backend web development.<br> • Ask me about: Python, NumPy, Pandas, C++ basics, DSA, Git/GitHub, and Arduino projects.<br> • Know about my experiences <a href="https://linkedin.com/in/sahibsasan">LinkedIn</a> <br> • Fun fact: I love turning ideas into projects — from vending machines with Arduino to planning my own clothing brand!
+• I'm currently working on: Building Python projects, practicing DSA in Java, and developing my personal portfolio website.<br> • I'm looking to collaborate on: Open-source Python projects, beginner-friendly web apps, and automation tools.<br> • I'm looking for help with: System design basics, and real-world project ideas.<br> • I'm currently learning: Python for data analysis, DSA in Java, SQL, and backend web development.<br> • Ask me about: Python, NumPy, Pandas, C++ basics, DSA, Git/GitHub, and Arduino projects.<br> • Know about my experiences <a href="https://linkedin.com/in/sahibsasan">LinkedIn</a> <br> • Fun fact: I love turning ideas into projects — from vending machines with Arduino to planning my own clothing brand!
 
 
 
@@ -15,13 +15,8 @@
   <a href="https://instagram.com/sahibsasan">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/gurnoor-singh-2984a2252">
+  <a href="https://linkedin.com/in/sahibsasan">
  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40"/>
-
-</a>
-
-  <a href="https://reddit.com/user/sahibiee">
-    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="40" height="40"/>
   </a>
   <a href="https://x.com/isahibsasan">
     <img src="https://cdn.simpleicons.org/x/000000" width="40" height="40"/>
@@ -54,10 +49,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/></a>
 </p> <br>
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahibsasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sahibsasan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahibsasan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
